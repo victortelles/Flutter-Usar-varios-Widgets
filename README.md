@@ -24,10 +24,10 @@ Sigue la guía oficial según tu sistema operativo:
 
 ### **2️⃣ Clonar el Repositorio**
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git clone https://github.com/victortelles/Flutter-Usar-varios-Widgets.git
 ```
 ```bash
-cd TU_REPOSITORIO
+cd Flutter-Usar-varios-Widgets
 ```
 
 ### **3️⃣ Instalar Dependencias**
